@@ -1,0 +1,1 @@
+const n=3,a={featured:{bannerName:"wanderlust-invocation-2",character:"qiqi"},characters:["qiqi","keqing","diluc","mona","jean","tighnari"]},e={version:3,standard:a};export{e as default,a as standard,n as version};
