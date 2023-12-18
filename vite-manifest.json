@@ -1,11 +1,11 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "internal/immutable/start-a82f0a7c.js",
+    "file": "internal/immutable/start-52de9681.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_singletons-f64a7082.js",
+      "_index-8ff577af.js",
+      "_singletons-9517746e.js",
       "_preload-helper-176e53da.js"
     ],
     "dynamicImports": [
@@ -22,21 +22,21 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "internal/immutable/components/pages/_layout.svelte-7f3758bc.js",
+    "file": "internal/immutable/components/pages/_layout.svelte-288127e2.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
+      "_index-8ff577af.js",
       "_preload-helper-176e53da.js",
-      "_runtime.esm-09dcc7a6.js",
-      "_stores-d89f990d.js",
-      "_index-24ef85ad.js",
-      "_app-stores-e4e3b006.js",
-      "_mobileDetect-ac55386b.js",
-      "_index-9fd67b91.js",
-      "_weapons-daf21159.js",
+      "_runtime.esm-f9803d38.js",
+      "_stores-1e117fec.js",
+      "_index-e12915d4.js",
+      "_app-stores-148f3229.js",
+      "_mobileDetect-9d6655cc.js",
+      "_index-dbf9cf2f.js",
+      "_weapons-a2aa16e8.js",
       "_env-ea3f5f2d.js",
-      "_Iklan-152c3159.js"
+      "_Iklan-10bad5a7.js"
     ],
     "dynamicImports": [
       "node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
@@ -74,52 +74,52 @@
     ]
   },
   "src/routes/+error.svelte": {
-    "file": "internal/immutable/components/pages/_error.svelte-37d6d10b.js",
+    "file": "internal/immutable/components/pages/_error.svelte-a013c32e.js",
     "src": "src/routes/+error.svelte",
     "isEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_stores-d89f990d.js"
+      "_index-8ff577af.js",
+      "_stores-1e117fec.js"
     ],
     "css": [
       "internal/immutable/assets/_error-bd9d867e.css"
     ]
   },
   "src/routes/adkey/+page.svelte": {
-    "file": "internal/immutable/components/pages/adkey/_page.svelte-e2104f11.js",
+    "file": "internal/immutable/components/pages/adkey/_page.svelte-e80524c9.js",
     "src": "src/routes/adkey/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_index-9fd67b91.js",
-      "_audio-f580eebb.js",
-      "_ButtonModal-e1cd505b.js"
+      "_index-8ff577af.js",
+      "_index-dbf9cf2f.js",
+      "_audio-ca8a4753.js",
+      "_ButtonModal-58816808.js"
     ],
     "css": [
       "internal/immutable/assets/_page-41952c63.css"
     ]
   },
   "src/routes/install/+page.svelte": {
-    "file": "internal/immutable/components/pages/install/_page.svelte-9b10aa18.js",
+    "file": "internal/immutable/components/pages/install/_page.svelte-b8ad4c96.js",
     "src": "src/routes/install/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_runtime.esm-09dcc7a6.js",
+      "_index-8ff577af.js",
+      "_runtime.esm-f9803d38.js",
       "_env-ea3f5f2d.js",
-      "_app-stores-e4e3b006.js"
+      "_app-stores-148f3229.js"
     ],
     "css": [
       "internal/immutable/assets/_page-c955f7fd.css"
     ]
   },
   "src/routes/privacy-policy/+page.svelte": {
-    "file": "internal/immutable/components/pages/privacy-policy/_page.svelte-c8c3ccba.js",
+    "file": "internal/immutable/components/pages/privacy-policy/_page.svelte-195270b1.js",
     "src": "src/routes/privacy-policy/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_runtime.esm-09dcc7a6.js",
+      "_index-8ff577af.js",
+      "_runtime.esm-f9803d38.js",
       "_env-ea3f5f2d.js"
     ],
     "css": [
@@ -127,50 +127,50 @@
     ]
   },
   "src/routes/screen/+page.svelte": {
-    "file": "internal/immutable/components/pages/screen/_page.svelte-dc0e6048.js",
+    "file": "internal/immutable/components/pages/screen/_page.svelte-20072205.js",
     "src": "src/routes/screen/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index-504fd5ff.js"
+      "_index-8ff577af.js"
     ]
   },
   "src/routes/screen/chars/+page.svelte": {
-    "file": "internal/immutable/components/pages/screen/chars/_page.svelte-a030de84.js",
+    "file": "internal/immutable/components/pages/screen/chars/_page.svelte-7626df5b.js",
     "src": "src/routes/screen/chars/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_stores-d89f990d.js",
-      "_navigation-10ef48e9.js"
+      "_index-8ff577af.js",
+      "_stores-1e117fec.js",
+      "_navigation-5f123662.js"
     ]
   },
   "src/routes/screen/wishitem/+page.svelte": {
-    "file": "internal/immutable/components/pages/screen/wishitem/_page.svelte-c6038260.js",
+    "file": "internal/immutable/components/pages/screen/wishitem/_page.svelte-a6f470ad.js",
     "src": "src/routes/screen/wishitem/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_stores-d89f990d.js",
-      "_navigation-10ef48e9.js",
-      "_runtime.esm-09dcc7a6.js",
+      "_index-8ff577af.js",
+      "_stores-1e117fec.js",
+      "_navigation-5f123662.js",
+      "_runtime.esm-f9803d38.js",
       "_env-ea3f5f2d.js",
-      "_weapons-daf21159.js",
-      "_WishResult-1411fe4a.js"
+      "_weapons-a2aa16e8.js",
+      "_WishResult-45eb73b6.js"
     ],
     "css": [
       "internal/immutable/assets/_page-38811b6b.css"
     ]
   },
   "src/routes/screen/wishlist/+page.svelte": {
-    "file": "internal/immutable/components/pages/screen/wishlist/_page.svelte-f8514af5.js",
+    "file": "internal/immutable/components/pages/screen/wishlist/_page.svelte-017a574f.js",
     "src": "src/routes/screen/wishlist/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_stores-d89f990d.js",
-      "_navigation-10ef48e9.js",
-      "_weapons-daf21159.js",
-      "_WishResult-1411fe4a.js"
+      "_index-8ff577af.js",
+      "_stores-1e117fec.js",
+      "_navigation-5f123662.js",
+      "_weapons-a2aa16e8.js",
+      "_WishResult-45eb73b6.js"
     ],
     "css": [
       "internal/immutable/assets/_page-38811b6b.css"
@@ -185,66 +185,66 @@
     ]
   },
   "src/routes/+page.svelte": {
-    "file": "internal/immutable/components/pages/_page.svelte-d149436f.js",
+    "file": "internal/immutable/components/pages/_page.svelte-49019027.js",
     "src": "src/routes/+page.svelte",
     "isEntry": true,
     "imports": [
       "_preload-helper-176e53da.js",
-      "_index-504fd5ff.js",
-      "_index-9fd67b91.js",
-      "_index-24ef85ad.js",
-      "_WishResult-1411fe4a.js",
-      "__page-751e378c.js",
-      "_app-stores-e4e3b006.js",
-      "_audio-f580eebb.js"
+      "_index-8ff577af.js",
+      "_index-dbf9cf2f.js",
+      "_index-e12915d4.js",
+      "_WishResult-45eb73b6.js",
+      "__page-109bb125.js",
+      "_app-stores-148f3229.js",
+      "_audio-ca8a4753.js"
     ]
   },
-  "_singletons-f64a7082.js": {
-    "file": "internal/immutable/chunks/singletons-f64a7082.js",
+  "_singletons-9517746e.js": {
+    "file": "internal/immutable/chunks/singletons-9517746e.js",
     "imports": [
-      "_index-24ef85ad.js"
+      "_index-e12915d4.js"
     ]
   },
-  "_index-504fd5ff.js": {
-    "file": "internal/immutable/chunks/index-504fd5ff.js"
+  "_index-8ff577af.js": {
+    "file": "internal/immutable/chunks/index-8ff577af.js"
   },
-  "_index-24ef85ad.js": {
-    "file": "internal/immutable/chunks/index-24ef85ad.js",
+  "_index-e12915d4.js": {
+    "file": "internal/immutable/chunks/index-e12915d4.js",
     "imports": [
-      "_index-504fd5ff.js"
+      "_index-8ff577af.js"
     ]
   },
   "_preload-helper-176e53da.js": {
     "file": "internal/immutable/chunks/preload-helper-176e53da.js"
   },
-  "_runtime.esm-09dcc7a6.js": {
-    "file": "internal/immutable/chunks/runtime.esm-09dcc7a6.js",
+  "_runtime.esm-f9803d38.js": {
+    "file": "internal/immutable/chunks/runtime.esm-f9803d38.js",
     "imports": [
-      "_index-24ef85ad.js"
+      "_index-e12915d4.js"
     ]
   },
-  "_stores-d89f990d.js": {
-    "file": "internal/immutable/chunks/stores-d89f990d.js",
+  "_stores-1e117fec.js": {
+    "file": "internal/immutable/chunks/stores-1e117fec.js",
     "imports": [
-      "_index-504fd5ff.js",
-      "_singletons-f64a7082.js"
+      "_index-8ff577af.js",
+      "_singletons-9517746e.js"
     ]
   },
-  "_app-stores-e4e3b006.js": {
-    "file": "internal/immutable/chunks/app-stores-e4e3b006.js",
+  "_app-stores-148f3229.js": {
+    "file": "internal/immutable/chunks/app-stores-148f3229.js",
     "imports": [
-      "_index-24ef85ad.js"
+      "_index-e12915d4.js"
     ]
   },
   "_env-ea3f5f2d.js": {
     "file": "internal/immutable/chunks/env-ea3f5f2d.js"
   },
-  "_mobileDetect-ac55386b.js": {
-    "file": "internal/immutable/chunks/mobileDetect-ac55386b.js",
+  "_mobileDetect-9d6655cc.js": {
+    "file": "internal/immutable/chunks/mobileDetect-9d6655cc.js",
     "imports": [
       "_preload-helper-176e53da.js",
-      "_runtime.esm-09dcc7a6.js",
-      "_index-9fd67b91.js"
+      "_runtime.esm-f9803d38.js",
+      "_index-dbf9cf2f.js"
     ],
     "dynamicImports": [
       "src/locales/de-DE.json",
@@ -269,44 +269,42 @@
       "src/locales/items/zh-TW.json"
     ]
   },
-  "_Iklan-152c3159.js": {
-    "file": "internal/immutable/chunks/Iklan-152c3159.js",
+  "_Iklan-10bad5a7.js": {
+    "file": "internal/immutable/chunks/Iklan-10bad5a7.js",
     "imports": [
-      "_index-504fd5ff.js",
-      "_app-stores-e4e3b006.js",
-      "_weapons-daf21159.js"
+      "_index-8ff577af.js"
     ]
   },
-  "_index-9fd67b91.js": {
-    "file": "internal/immutable/chunks/index-9fd67b91.js",
+  "_index-dbf9cf2f.js": {
+    "file": "internal/immutable/chunks/index-dbf9cf2f.js",
     "imports": [
-      "_index-504fd5ff.js"
+      "_index-8ff577af.js"
     ]
   },
-  "_weapons-daf21159.js": {
-    "file": "internal/immutable/chunks/weapons-daf21159.js",
+  "_weapons-a2aa16e8.js": {
+    "file": "internal/immutable/chunks/weapons-a2aa16e8.js",
     "imports": [
-      "_index-9fd67b91.js"
+      "_index-dbf9cf2f.js"
     ]
   },
   "__layout-0ebf6292.js": {
     "file": "internal/immutable/chunks/_layout-0ebf6292.js"
   },
-  "__page-751e378c.js": {
-    "file": "internal/immutable/chunks/_page-751e378c.js",
+  "__page-109bb125.js": {
+    "file": "internal/immutable/chunks/_page-109bb125.js",
     "imports": [
       "_preload-helper-176e53da.js",
-      "_index-504fd5ff.js",
-      "_index-9fd67b91.js",
-      "_index-24ef85ad.js",
-      "_WishResult-1411fe4a.js",
-      "_app-stores-e4e3b006.js",
-      "_mobileDetect-ac55386b.js",
-      "_audio-f580eebb.js",
-      "_runtime.esm-09dcc7a6.js",
-      "_ButtonModal-e1cd505b.js",
+      "_index-8ff577af.js",
+      "_index-dbf9cf2f.js",
+      "_index-e12915d4.js",
+      "_WishResult-45eb73b6.js",
+      "_app-stores-148f3229.js",
+      "_mobileDetect-9d6655cc.js",
+      "_audio-ca8a4753.js",
+      "_runtime.esm-f9803d38.js",
+      "_ButtonModal-58816808.js",
       "_env-ea3f5f2d.js",
-      "_weapons-daf21159.js"
+      "_weapons-a2aa16e8.js"
     ],
     "dynamicImports": [
       "src/lib/data/banners/events/1.0.json",
@@ -354,46 +352,46 @@
       "internal/immutable/assets/_page-c70f6bd1.css"
     ]
   },
-  "_WishResult-1411fe4a.js": {
-    "file": "internal/immutable/chunks/WishResult-1411fe4a.js",
+  "_WishResult-45eb73b6.js": {
+    "file": "internal/immutable/chunks/WishResult-45eb73b6.js",
     "imports": [
-      "_index-504fd5ff.js",
-      "_index-9fd67b91.js",
-      "_runtime.esm-09dcc7a6.js",
-      "_app-stores-e4e3b006.js",
-      "_audio-f580eebb.js",
-      "_weapons-daf21159.js",
+      "_index-8ff577af.js",
+      "_index-dbf9cf2f.js",
+      "_runtime.esm-f9803d38.js",
+      "_app-stores-148f3229.js",
+      "_audio-ca8a4753.js",
+      "_weapons-a2aa16e8.js",
       "_env-ea3f5f2d.js"
     ],
     "css": [
       "internal/immutable/assets/WishResult-b5aac2dc.css"
     ]
   },
-  "_audio-f580eebb.js": {
-    "file": "internal/immutable/chunks/audio-f580eebb.js",
+  "_audio-ca8a4753.js": {
+    "file": "internal/immutable/chunks/audio-ca8a4753.js",
     "imports": [
-      "_index-9fd67b91.js"
+      "_index-dbf9cf2f.js"
     ]
   },
-  "_ButtonModal-e1cd505b.js": {
-    "file": "internal/immutable/chunks/ButtonModal-e1cd505b.js",
+  "_ButtonModal-58816808.js": {
+    "file": "internal/immutable/chunks/ButtonModal-58816808.js",
     "imports": [
-      "_index-9fd67b91.js",
-      "_index-504fd5ff.js",
-      "_runtime.esm-09dcc7a6.js"
+      "_index-dbf9cf2f.js",
+      "_index-8ff577af.js",
+      "_runtime.esm-f9803d38.js"
     ],
     "css": [
       "internal/immutable/assets/ButtonModal-a45f7e67.css"
     ]
   },
-  "_navigation-10ef48e9.js": {
-    "file": "internal/immutable/chunks/navigation-10ef48e9.js",
+  "_navigation-5f123662.js": {
+    "file": "internal/immutable/chunks/navigation-5f123662.js",
     "imports": [
-      "_singletons-f64a7082.js"
+      "_singletons-9517746e.js"
     ]
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "internal/immutable/chunks/0-f39d31b5.js",
+    "file": "internal/immutable/chunks/0-eacb728c.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
@@ -402,7 +400,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "internal/immutable/chunks/1-e9f40308.js",
+    "file": "internal/immutable/chunks/1-fec4b022.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
@@ -410,15 +408,15 @@
     ]
   },
   ".svelte-kit/generated/nodes/2.js": {
-    "file": "internal/immutable/chunks/2-585f595f.js",
+    "file": "internal/immutable/chunks/2-3d079296.js",
     "src": ".svelte-kit/generated/nodes/2.js",
     "isDynamicEntry": true,
     "imports": [
-      "__page-751e378c.js"
+      "__page-109bb125.js"
     ]
   },
   ".svelte-kit/generated/nodes/3.js": {
-    "file": "internal/immutable/chunks/3-08fe2784.js",
+    "file": "internal/immutable/chunks/3-f331fd27.js",
     "src": ".svelte-kit/generated/nodes/3.js",
     "isDynamicEntry": true,
     "imports": [
@@ -426,7 +424,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/4.js": {
-    "file": "internal/immutable/chunks/4-6d3e21f9.js",
+    "file": "internal/immutable/chunks/4-714e1629.js",
     "src": ".svelte-kit/generated/nodes/4.js",
     "isDynamicEntry": true,
     "imports": [
@@ -434,7 +432,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/5.js": {
-    "file": "internal/immutable/chunks/5-df500087.js",
+    "file": "internal/immutable/chunks/5-b73f5b98.js",
     "src": ".svelte-kit/generated/nodes/5.js",
     "isDynamicEntry": true,
     "imports": [
@@ -442,7 +440,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/6.js": {
-    "file": "internal/immutable/chunks/6-77825a34.js",
+    "file": "internal/immutable/chunks/6-83a98620.js",
     "src": ".svelte-kit/generated/nodes/6.js",
     "isDynamicEntry": true,
     "imports": [
@@ -450,7 +448,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/7.js": {
-    "file": "internal/immutable/chunks/7-ff5ebcba.js",
+    "file": "internal/immutable/chunks/7-d24bcb34.js",
     "src": ".svelte-kit/generated/nodes/7.js",
     "isDynamicEntry": true,
     "imports": [
@@ -458,7 +456,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/8.js": {
-    "file": "internal/immutable/chunks/8-0e3bb5ea.js",
+    "file": "internal/immutable/chunks/8-a0031e5e.js",
     "src": ".svelte-kit/generated/nodes/8.js",
     "isDynamicEntry": true,
     "imports": [
@@ -466,7 +464,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/9.js": {
-    "file": "internal/immutable/chunks/9-dfd52068.js",
+    "file": "internal/immutable/chunks/9-ad564176.js",
     "src": ".svelte-kit/generated/nodes/9.js",
     "isDynamicEntry": true,
     "imports": [
@@ -719,109 +717,107 @@
     "isDynamicEntry": true
   },
   "src/lib/components/ObtainedItem.svelte": {
-    "file": "internal/immutable/chunks/ObtainedItem-a53f08ce.js",
+    "file": "internal/immutable/chunks/ObtainedItem-946970a9.js",
     "src": "src/lib/components/ObtainedItem.svelte",
     "isDynamicEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_index-9fd67b91.js",
-      "_runtime.esm-09dcc7a6.js",
-      "_WishResult-1411fe4a.js",
-      "_app-stores-e4e3b006.js",
-      "_audio-f580eebb.js"
+      "_index-8ff577af.js",
+      "_index-dbf9cf2f.js",
+      "_runtime.esm-f9803d38.js",
+      "_WishResult-45eb73b6.js",
+      "_app-stores-148f3229.js",
+      "_audio-ca8a4753.js"
     ],
     "css": [
       "internal/immutable/assets/ObtainedItem-64c93daf.css"
     ]
   },
   "src/routes/_index/ModalConvert.svelte": {
-    "file": "internal/immutable/chunks/ModalConvert-d3863a9d.js",
+    "file": "internal/immutable/chunks/ModalConvert-dfe6b7ad.js",
     "src": "src/routes/_index/ModalConvert.svelte",
     "isDynamicEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_runtime.esm-09dcc7a6.js",
-      "_app-stores-e4e3b006.js",
-      "_index-9fd67b91.js",
-      "_audio-f580eebb.js",
-      "_WishResult-1411fe4a.js",
-      "__page-751e378c.js",
-      "__modal-balance-c0611654.js"
+      "_index-8ff577af.js",
+      "_runtime.esm-f9803d38.js",
+      "_app-stores-148f3229.js",
+      "_index-dbf9cf2f.js",
+      "_audio-ca8a4753.js",
+      "_WishResult-45eb73b6.js",
+      "__page-109bb125.js",
+      "__modal-balance-62155bd3.js"
     ],
     "css": [
       "internal/immutable/assets/ModalConvert-1cf56ccf.css"
     ]
   },
-  "__modal-balance-c0611654.js": {
-    "file": "internal/immutable/chunks/_modal-balance-c0611654.js",
+  "__modal-balance-62155bd3.js": {
+    "file": "internal/immutable/chunks/_modal-balance-62155bd3.js",
     "imports": [
-      "_index-504fd5ff.js",
-      "_audio-f580eebb.js",
-      "_index-9fd67b91.js",
-      "_app-stores-e4e3b006.js",
-      "__page-751e378c.js"
+      "_index-8ff577af.js",
+      "_audio-ca8a4753.js",
+      "_index-dbf9cf2f.js",
+      "_app-stores-148f3229.js",
+      "__page-109bb125.js"
     ],
     "css": [
       "internal/immutable/assets/_modal-balance-4f630c28.css"
     ]
   },
   "src/routes/_menu/index.svelte": {
-    "file": "internal/immutable/chunks/index-db1ec0d9.js",
+    "file": "internal/immutable/chunks/index-6cf172e7.js",
     "src": "src/routes/_menu/index.svelte",
     "isDynamicEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_index-9fd67b91.js",
-      "_runtime.esm-09dcc7a6.js",
-      "_app-stores-e4e3b006.js",
-      "_audio-f580eebb.js",
-      "_WishResult-1411fe4a.js",
-      "__page-751e378c.js",
-      "_mobileDetect-ac55386b.js",
-      "_ButtonModal-e1cd505b.js"
+      "_index-8ff577af.js",
+      "_index-dbf9cf2f.js",
+      "_runtime.esm-f9803d38.js",
+      "_app-stores-148f3229.js",
+      "_audio-ca8a4753.js",
+      "_WishResult-45eb73b6.js",
+      "__page-109bb125.js",
+      "_mobileDetect-9d6655cc.js",
+      "_ButtonModal-58816808.js"
     ],
     "css": [
       "internal/immutable/assets/index-69eb2ab3.css"
     ]
   },
   "src/routes/_gachainfo/index.svelte": {
-    "file": "internal/immutable/chunks/index-d4f601b9.js",
+    "file": "internal/immutable/chunks/index-f2e457e2.js",
     "src": "src/routes/_gachainfo/index.svelte",
     "isDynamicEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_index-9fd67b91.js",
-      "_runtime.esm-09dcc7a6.js",
-      "_WishResult-1411fe4a.js",
-      "_app-stores-e4e3b006.js",
-      "__page-751e378c.js",
-      "_audio-f580eebb.js",
-      "_weapons-daf21159.js",
-      "_Iklan-152c3159.js",
+      "_index-8ff577af.js",
+      "_index-dbf9cf2f.js",
+      "_runtime.esm-f9803d38.js",
+      "_WishResult-45eb73b6.js",
+      "_app-stores-148f3229.js",
+      "__page-109bb125.js",
+      "_audio-ca8a4753.js",
+      "_Iklan-10bad5a7.js",
       "_env-ea3f5f2d.js",
-      "_index-24ef85ad.js",
-      "_mobileDetect-ac55386b.js"
+      "_index-e12915d4.js",
+      "_mobileDetect-9d6655cc.js"
     ],
     "css": [
       "internal/immutable/assets/index-72738b38.css"
     ]
   },
   "src/routes/_allbanners/index.svelte": {
-    "file": "internal/immutable/chunks/index-7dd1829b.js",
+    "file": "internal/immutable/chunks/index-8509f7dd.js",
     "src": "src/routes/_allbanners/index.svelte",
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-176e53da.js",
-      "_mobileDetect-ac55386b.js",
-      "_index-504fd5ff.js",
-      "_index-9fd67b91.js",
-      "_runtime.esm-09dcc7a6.js",
-      "_index-4082e041.js",
-      "_WishResult-1411fe4a.js",
-      "_app-stores-e4e3b006.js",
+      "_mobileDetect-9d6655cc.js",
+      "_index-8ff577af.js",
+      "_index-dbf9cf2f.js",
+      "_runtime.esm-f9803d38.js",
+      "_index-09ab29e5.js",
+      "_WishResult-45eb73b6.js",
+      "_app-stores-148f3229.js",
       "_env-ea3f5f2d.js",
-      "_weapons-daf21159.js",
-      "_audio-f580eebb.js"
+      "_audio-ca8a4753.js"
     ],
     "dynamicImports": [
       "src/lib/data/banners/events/1.0.json",
@@ -857,64 +853,64 @@
       "internal/immutable/assets/index-95d80854.css"
     ]
   },
-  "_index-4082e041.js": {
-    "file": "internal/immutable/chunks/index-4082e041.js",
+  "_index-09ab29e5.js": {
+    "file": "internal/immutable/chunks/index-09ab29e5.js",
     "imports": [
-      "_index-9fd67b91.js",
-      "_index-504fd5ff.js"
+      "_index-dbf9cf2f.js",
+      "_index-8ff577af.js"
     ]
   },
   "src/routes/_inventory/index.svelte": {
-    "file": "internal/immutable/chunks/index-6aee2778.js",
+    "file": "internal/immutable/chunks/index-d2a16693.js",
     "src": "src/routes/_inventory/index.svelte",
     "isDynamicEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_index-9fd67b91.js",
-      "_runtime.esm-09dcc7a6.js",
-      "_WishResult-1411fe4a.js",
+      "_index-8ff577af.js",
+      "_index-dbf9cf2f.js",
+      "_runtime.esm-f9803d38.js",
+      "_WishResult-45eb73b6.js",
       "_env-ea3f5f2d.js",
-      "_audio-f580eebb.js",
-      "_app-stores-e4e3b006.js",
-      "__page-751e378c.js",
-      "_index-4082e041.js",
-      "_weapons-daf21159.js",
-      "_mobileDetect-ac55386b.js"
+      "_audio-ca8a4753.js",
+      "_app-stores-148f3229.js",
+      "__page-109bb125.js",
+      "_index-09ab29e5.js",
+      "_weapons-a2aa16e8.js",
+      "_mobileDetect-9d6655cc.js"
     ],
     "css": [
       "internal/immutable/assets/index-3d9a7568.css"
     ]
   },
   "src/routes/_shop/index.svelte": {
-    "file": "internal/immutable/chunks/index-b2dbc4bd.js",
+    "file": "internal/immutable/chunks/index-8ede320c.js",
     "src": "src/routes/_shop/index.svelte",
     "isDynamicEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_index-24ef85ad.js",
-      "_index-9fd67b91.js",
-      "_runtime.esm-09dcc7a6.js",
-      "_WishResult-1411fe4a.js",
-      "_app-stores-e4e3b006.js",
-      "_weapons-daf21159.js",
+      "_index-8ff577af.js",
+      "_index-e12915d4.js",
+      "_index-dbf9cf2f.js",
+      "_runtime.esm-f9803d38.js",
+      "_WishResult-45eb73b6.js",
+      "_app-stores-148f3229.js",
+      "_weapons-a2aa16e8.js",
       "_env-ea3f5f2d.js",
-      "_audio-f580eebb.js",
-      "__page-751e378c.js",
-      "__modal-balance-c0611654.js",
-      "_ButtonModal-e1cd505b.js"
+      "_audio-ca8a4753.js",
+      "__page-109bb125.js",
+      "__modal-balance-62155bd3.js",
+      "_ButtonModal-58816808.js"
     ],
     "css": [
       "internal/immutable/assets/index-9c6a6554.css"
     ]
   },
   "src/routes/_feedback/index.svelte": {
-    "file": "internal/immutable/chunks/index-70e97de8.js",
+    "file": "internal/immutable/chunks/index-62c4cc18.js",
     "src": "src/routes/_feedback/index.svelte",
     "isDynamicEntry": true,
     "imports": [
-      "_index-504fd5ff.js",
-      "_app-stores-e4e3b006.js",
-      "_index-9fd67b91.js"
+      "_index-8ff577af.js",
+      "_app-stores-148f3229.js",
+      "_index-dbf9cf2f.js"
     ],
     "css": [
       "internal/immutable/assets/index-f0ee7e4a.css"
@@ -940,76 +936,76 @@
     "src": "src/lib/data/banners/standard/4.json",
     "isDynamicEntry": true
   },
-  "src/routes/screen/wishitem/+page.css": {
+  "src/routes/screen/wishlist/+page.css": {
     "file": "internal/immutable/assets/_page-38811b6b.css",
-    "src": "src/routes/screen/wishitem/+page.css"
-  },
-  "src/routes/_allbanners/index.css": {
-    "file": "internal/immutable/assets/index-95d80854.css",
-    "src": "src/routes/_allbanners/index.css"
+    "src": "src/routes/screen/wishlist/+page.css"
   },
   "src/routes/_index/ModalConvert.css": {
     "file": "internal/immutable/assets/ModalConvert-1cf56ccf.css",
     "src": "src/routes/_index/ModalConvert.css"
   },
-  "src/routes/install/+page.css": {
-    "file": "internal/immutable/assets/_page-c955f7fd.css",
-    "src": "src/routes/install/+page.css"
-  },
-  "src/routes/adkey/+page.css": {
-    "file": "internal/immutable/assets/_page-41952c63.css",
-    "src": "src/routes/adkey/+page.css"
-  },
-  "src/routes/_inventory/index.css": {
-    "file": "internal/immutable/assets/index-3d9a7568.css",
-    "src": "src/routes/_inventory/index.css"
-  },
-  "src/routes/+error.css": {
-    "file": "internal/immutable/assets/_error-bd9d867e.css",
-    "src": "src/routes/+error.css"
-  },
-  "_modal-balance.css": {
-    "file": "internal/immutable/assets/_modal-balance-4f630c28.css",
-    "src": "_modal-balance.css"
+  "src/routes/_allbanners/index.css": {
+    "file": "internal/immutable/assets/index-95d80854.css",
+    "src": "src/routes/_allbanners/index.css"
   },
   "src/routes/_feedback/index.css": {
     "file": "internal/immutable/assets/index-f0ee7e4a.css",
     "src": "src/routes/_feedback/index.css"
   },
-  "src/routes/privacy-policy/+page.css": {
-    "file": "internal/immutable/assets/_page-3c659a81.css",
-    "src": "src/routes/privacy-policy/+page.css"
+  "src/routes/_inventory/index.css": {
+    "file": "internal/immutable/assets/index-3d9a7568.css",
+    "src": "src/routes/_inventory/index.css"
   },
   "src/lib/components/ObtainedItem.css": {
     "file": "internal/immutable/assets/ObtainedItem-64c93daf.css",
     "src": "src/lib/components/ObtainedItem.css"
   },
-  "src/routes/_gachainfo/index.css": {
-    "file": "internal/immutable/assets/index-72738b38.css",
-    "src": "src/routes/_gachainfo/index.css"
+  "ButtonModal.css": {
+    "file": "internal/immutable/assets/ButtonModal-a45f7e67.css",
+    "src": "ButtonModal.css"
   },
-  "src/routes/_shop/index.css": {
-    "file": "internal/immutable/assets/index-9c6a6554.css",
-    "src": "src/routes/_shop/index.css"
+  "_modal-balance.css": {
+    "file": "internal/immutable/assets/_modal-balance-4f630c28.css",
+    "src": "_modal-balance.css"
+  },
+  "src/routes/privacy-policy/+page.css": {
+    "file": "internal/immutable/assets/_page-3c659a81.css",
+    "src": "src/routes/privacy-policy/+page.css"
+  },
+  "src/routes/adkey/+page.css": {
+    "file": "internal/immutable/assets/_page-41952c63.css",
+    "src": "src/routes/adkey/+page.css"
+  },
+  "src/routes/install/+page.css": {
+    "file": "internal/immutable/assets/_page-c955f7fd.css",
+    "src": "src/routes/install/+page.css"
+  },
+  "src/routes/+error.css": {
+    "file": "internal/immutable/assets/_error-bd9d867e.css",
+    "src": "src/routes/+error.css"
   },
   "src/routes/_menu/index.css": {
     "file": "internal/immutable/assets/index-69eb2ab3.css",
     "src": "src/routes/_menu/index.css"
   },
-  "_page.css": {
-    "file": "internal/immutable/assets/_page-c70f6bd1.css",
-    "src": "_page.css"
+  "src/routes/_gachainfo/index.css": {
+    "file": "internal/immutable/assets/index-72738b38.css",
+    "src": "src/routes/_gachainfo/index.css"
   },
   "WishResult.css": {
     "file": "internal/immutable/assets/WishResult-b5aac2dc.css",
     "src": "WishResult.css"
   },
-  "ButtonModal.css": {
-    "file": "internal/immutable/assets/ButtonModal-a45f7e67.css",
-    "src": "ButtonModal.css"
+  "src/routes/_shop/index.css": {
+    "file": "internal/immutable/assets/index-9c6a6554.css",
+    "src": "src/routes/_shop/index.css"
   },
   "src/routes/+layout.css": {
     "file": "internal/immutable/assets/_layout-d8bca03c.css",
     "src": "src/routes/+layout.css"
+  },
+  "_page.css": {
+    "file": "internal/immutable/assets/_page-c70f6bd1.css",
+    "src": "_page.css"
   }
 }

@@ -1,0 +1,1 @@
+import{S as c,i,s as h,F as r,E as l,o as d}from"./index-8ff577af.js";function f(n,t,s){let{type:o=""}=t,{head:a=!1}=t;const u=r("showAd");return l(n,u,e=>s(3,e)),d(()=>{}),n.$$set=e=>{"type"in e&&s(1,o=e.type),"head"in e&&s(2,a=e.head)},[u,o,a]}class y extends c{constructor(t){super(),i(this,t,f,null,h,{type:1,head:2})}}export{y as I};
